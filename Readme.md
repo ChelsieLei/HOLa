@@ -82,11 +82,17 @@ You can download our pretrained model checkpoints using the following link from 
 https://drive.google.com/drive/folders/1kH-yOi-YqdB35rSgKoRkmg_pGbyFEkUX?usp=sharing
 ```
 
-You can also download our pretrained model checkpoints using the following Kuake link:  
+Or using the following Kuake link:  
 ```
 Link: https://pan.quark.cn/s/c3f30b122ed2 
 Extraction code: yawa
 ```
+
+Or downloading in the Huggingface repo:
+```
+https://huggingface.co/ChelsieNUS/hola
+```
+
 
 ## Citation
 If you find our paper and/or code helpful, please consider citing :
